@@ -1,0 +1,170 @@
+/*CACHED*//******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-016d57da-d2bgnenh
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .Body  {
+		
+						font-size: 12px;
+						max-width: 650px;
+						margin-right: 20px;
+						margin-left: 20px;
+						margin-bottom: 10px;
+						line-height: 1.4em;	
+		}
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .Subtitle  ,  .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .Body h2  { 
+						font-size: 15px;
+						color: rgb(110, 110, 110);
+						max-width: 650px;
+						letter-spacing: 0.1em;
+						margin-right: 20px;
+						margin-top: 15px;
+						margin-left: 20px;
+						margin-bottom: 15px;
+						font-family: Arial;	
+		}
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .quote-holder  {
+		
+						margin-bottom: 45px;
+						margin-top: 35px;	
+		}
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .Title  ,  .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .Body h1  { 
+						font-size: 22px;
+						color: rgb(0, 0, 0);
+						max-width: 650px;
+						letter-spacing: 0.05em;
+						margin-right: 20px;
+						margin-top: 30px;
+						margin-left: 20px;
+						font-family: Montserrat;	
+		}
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .link-wrapper  {
+		
+						max-width: 1058px;	
+		}
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .Quote  {
+		
+						margin-right: 50px;
+						font-family: 'Times New Roman';
+						font-size: 19px;
+						margin-left: 50px;
+						font-style: italic;	
+		}
+	
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .quote-author  {
+		
+						font-style: italic;
+						font-size: 19px;
+						color: rgb(124, 124, 124);
+						margin-right: 50px;
+						margin-top: 10px;
+						margin-left: 50px;
+						font-family: 'Times New Roman';	
+		}
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .title-wrapper  {
+		
+						max-width: 1180px;	
+		}
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .item-links span  {
+		
+						border-width: 1px;
+						font-size: 13px;
+						color: rgb(0, 0, 0);
+						padding-bottom: 10px;
+						letter-spacing: 0.1em;
+						padding-right: 15px;
+						margin-top: 20px;
+						padding-left: 15px;
+						padding-top: 10px;
+						margin-bottom: 20px;
+						font-family: Arial;
+						background-color: rgba(66, 117, 83, 0);
+						margin-left: 50px;	
+		}
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .subtitle-wrapper  {
+		
+						max-width: 1180px;	
+		}
+	 .style-8e7ece6d-dzebo07f .style-016d57da-d2bgnenh .body-wrapper  {
+		
+						max-width: 1032px;	
+		}
+	 .style-016d57da-d2bgnenh.master.container > #children  {
+		
+						background-color: rgba(0, 0, 0, 0);	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-title:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-title:not(.custom) { 
+						font-family: Montserrat;
+				
+						letter-spacing: 0.05em;
+				
+						line-height: 1.4em;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-element.Link:not(.custom)  {
+		
+						font-family: Montserrat;
+				
+						letter-spacing: 0.15em;
+				
+						border-width: 0px;
+				
+						border-radius: 0px;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-subtitle:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-subtitle:not(.custom) { 
+						font-family: Montserrat;
+				
+						letter-spacing: 0.0em;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-body:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-body:not(.custom) { 
+						font-family: Arial;
+				
+						line-height: 1.9em;
+					
+		}
